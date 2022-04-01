@@ -9,3 +9,10 @@ Uma página em formato de dashboard adminitrativo.
 
 ## Visão web
 ![Web 1](https://github.com/SamuelFilgueira/Dashboard/blob/main/src/assets/webImage.PNG)
+
+# Tecnologias
+- HTML 
+- CSS 
+- JS
+- ReactJS
+- React-vis.
