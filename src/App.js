@@ -7,12 +7,10 @@ const App = () => {
 
   const [sidebarOpen, setSidebarOpen] = useState(false);
 
-  // Quando essa função for chamada ela vai setar o estado da minha sidebar aberta para verdadeiro.
   const openSidebar = () => {
     setSidebarOpen(true);
   }
 
-  // Quando essa função for chamada ela vai setar o estado da minha sidebar aberta para falso.
   const closeSidebar = () => {
     setSidebarOpen(false);
   }
