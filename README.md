@@ -16,3 +16,20 @@ Uma página em formato de dashboard administrativo.
 - JS
 - ReactJS
 - React-vis.
+
+# Como rodar o projeto ?
+
+Clonando o repositório
+
+### `$ git clone https://github.com/SamuelFilgueira/Dashboard.git `
+
+
+Baixar as dependências do projeto
+
+### `npm install`
+
+Executar
+### `npm start`
+
+Executar o app no modo de desenvolvimento.\
+Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador.
